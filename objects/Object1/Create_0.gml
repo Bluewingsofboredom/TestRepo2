@@ -1,1 +1,0 @@
-var speedd =4;
